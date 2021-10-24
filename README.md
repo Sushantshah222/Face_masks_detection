@@ -1,7 +1,3 @@
-# Face_masks_detection
-face masks detected using Opencv-python an deeplearning. Dataset was taken from kaggle.
-
-
 # Face Mask Detection using Deeplearning
 
 With the help of Deeplearning & Computer Vision, I have created Facemask detector.
