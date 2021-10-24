@@ -15,9 +15,8 @@ For free access to GPUs and to start with a smaller dataset, I utilized Google C
 ## Real Time Testing
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/60286504/138593191-9e4c6952-d3d4-4706-9bef-d2f6b8dfd67d.gif)
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+## Screenshots
 
 ![Screenshot from 2021-10-24 17-58-06](https://user-images.githubusercontent.com/60286504/138593613-82e1244f-8234-4e46-a68d-4527212074a8.png)
 ![Screenshot from 2021-10-24 17-58-39](https://user-images.githubusercontent.com/60286504/138593635-87bff647-ee75-43c7-903f-893f54f00efe.png)
