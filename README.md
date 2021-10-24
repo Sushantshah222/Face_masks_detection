@@ -13,7 +13,4 @@ After that, the binary CNN model was used to forecast each facial region. The pr
 For free access to GPUs and to start with a smaller dataset, I utilized Google Colaboratory ('Colab' for short).
 
 ## Real Time Testing
-
-Insert gif or link to demo
-
-  
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/60286504/138593191-9e4c6952-d3d4-4706-9bef-d2f6b8dfd67d.gif)
