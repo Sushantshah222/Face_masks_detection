@@ -1,7 +1,7 @@
- <h1 align="center">Face Mask Detection using Deeplearning </h1>
+ 
+<h1 align="center">Face Mask Detection using Deeplearning </h1> <br>
 
- <br>
-![maskEmoji](https://user-images.githubusercontent.com/60286504/138813866-c61c0d90-325c-41e0-9a02-4d1736b9ba32.png)
+
 
 <h3>Face Mask Detection System built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in static images as well as in real-time video streams.</h3>
 
@@ -19,6 +19,7 @@ For free access to GPUs and to start with a smaller dataset, I utilized Google C
 <br><br>
 
 ## Real Time Testing <br>
+
 <!--  video link -->
  - [Video Link 🎥](https://drive.google.com/file/d/1-y6MHBF18KvnR2-Tj8K6XR-OOrVBXYPz/view?usp=sharing)
 
