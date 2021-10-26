@@ -30,10 +30,13 @@ For free access to GPUs and to start with a smaller dataset, I utilized Google C
  - Harr Cascade 
  - Keras 
  - Tensor Flow
- 
+
+<br>
+
+## Feature <br>
+This system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19. This project can be integrated with embedded systems for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed.<br> <br>
 
 
-<br><br>
 
 ## Work Flow <br>
 
@@ -45,3 +48,7 @@ For free access to GPUs and to start with a smaller dataset, I utilized Google C
 ## Testing on Image <br>
 ![Screenshot from 2021-10-24 17-58-50](https://user-images.githubusercontent.com/60286504/138593639-be7e4606-1224-4731-9e9c-22ad0272bfb4.png)
 <br><br>
+
+## 🏆 Awards
+
+![Xtech_winners](https://user-images.githubusercontent.com/60286504/138813445-3878c195-3f61-41de-b4c2-b9adfec883b2.png)
